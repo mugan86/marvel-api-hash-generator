@@ -1,0 +1,27 @@
+{
+  "name": "marvel-api-hash-generator",
+  "version": "1.0.0",
+  "description": "In this project we take need hash to work in Marvel API.",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "dependencies": {
+    "md5.js": "^1.3.5"
+  },
+  "devDependencies": {
+    "@types/node": "^11.11.4"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugan86/marvel-api-hash-generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mugan86/marvel-api-hash-generator/issues"
+  },
+  "homepage": "https://github.com/mugan86/marvel-api-hash-generator#readme"
+}
