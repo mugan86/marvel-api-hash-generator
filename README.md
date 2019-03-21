@@ -11,7 +11,7 @@ In this project we take need hash to work in Marvel API.
 ![Link](./screens/1-keys.png)
 * Create script file and add this content to take hash value and try in Characters Request
 ```
-const getApiHash = require('./dist').getApiHash;
+const getApiHash = require('marvel-api-hash-generator').getApiHash;
 const timeStamp = 1;
 const privateKey = 'privateKeyValue';
 const publicKey = 'publicVale';
