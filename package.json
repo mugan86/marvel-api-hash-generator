@@ -1,6 +1,6 @@
 {
   "name": "marvel-api-hash-generator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "In this project we take need hash to work in Marvel API.",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
